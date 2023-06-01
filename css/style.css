@@ -1,0 +1,9 @@
+.box{
+	height: 100vh;
+	background-color: blueviolet;
+}
+.mini-box{
+	height: 100px;
+	background-color: red;
+	margin-top: 10px;
+}
